@@ -487,8 +487,6 @@ class Processor:
 
 # Example usage:
 if __name__ == "__main__":
-    # Set your API key
-    os.environ["GEMINI_API_KEY"] = "AIzaSyDODOIap8F1DhcuDbdiBw4QqWFBS39X9l8"
 
     # Initialize processor
     processor = Processor(

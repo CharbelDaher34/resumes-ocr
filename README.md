@@ -77,6 +77,7 @@ The application uses:
 - The application requires a valid Gemini API key to function
 - Processing time depends on the number and size of documents
 - The application tracks which files have been processed to avoid duplicate work
+- Add GEMINI_API_KEY to the .env file
 
 ## Future improvements
 

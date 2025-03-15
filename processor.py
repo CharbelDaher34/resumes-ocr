@@ -526,7 +526,6 @@ Return a JSON object with two keys:
 # Example usage:
 if __name__ == "__main__":
     # Set your API key
-    os.environ["GEMINI_API_KEY"] = ""
 
     print("CV Processor - Starting up...")
     # Initialize processor
